@@ -1,0 +1,21 @@
+Steps -->
+- Import the Data like .csv formate
+- Clean the Data
+- Split the Data into Training/Test Sets
+- Create a Model
+- Train the Model
+- Make Predictions
+- Evaluate and Improve
+
+
+Libraries and Tools
+- Numpy --> provide multi-dimensional array
+- Pandas --> Data analysis library provide that provide data frame
+Data-frame is a two-dimensional data structure.
+- MatPlotLib --> Two dimensional plotting library for creating graphs
+- Scikit-Learn --> Provide all common algorithm. like - decision trees, neural networks etc
+
+
+For writing code / IDE
+- Jupyter
+- Anaconda for installing jupyter
